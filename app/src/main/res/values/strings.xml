@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convert string</string>
+    <string name="editText">Escribe aqui</string>
+    <string name="chk_inverse">Inverse</string>
+    <string name="chk_capital">Capital letter</string>
+    <string name="btn_sendme">Send me</string>
+
+</resources>
